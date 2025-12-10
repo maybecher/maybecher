@@ -1,68 +1,45 @@
-```md
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=600&color=BC8CFF&center=true&vCenter=true&width=600&lines=>_Caroline+Souza;>_Desenvolvedora+Mobile+Full+Stack;>_Build+Clean;+Run+Fast;+Ship+Precise" />
+<img src="https://i.gifer.com/6V2.gif](https://i.gifer.com/6o0.gif" alt="pixel computer" width="340px" align="right">
+
+<p align="left">
+  <strong>Caroline Souza</strong><br>
+  Desenvolvedora Mobile & Full Stack<br>
+  Arquiteturas limpas • Fluxos eficientes • Entregas consistentes
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=32FF99" />
-</p>
-
----
-
-```
-/bio
-  name: Caroline Souza
-  stack: mobile + backend
-  focus: estruturas limpas | arquitetura objetiva | ritmo constante
-```
-
----
-
-## ░ stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,spring,js,html,css,androidstudio,figma,git,vscode,mysql" />
+<p align="left">
+  No momento, trabalhando e evoluindo projetos mobile com foco em <strong>Flutter + Firebase</strong>, além de APIs em <strong>Java / Spring Boot</strong>.
 </p>
 
 ---
 
-## ░ workflow
-```
-/workspace
-   ├─ mobile: flutter + firebase
-   ├─ backend: java + spring boot + sql
-   ├─ interface: figma
-   └─ ops: git / version-control
-```
-
----
-
-## ░ activity
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CarolineSouza&show_icons=true&hide_border=true&theme=tokyonight&icon_color=32FF99&title_color=BC8CFF&text_color=BC8CFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineSouza&layout=compact&hide_border=true&theme=tokyonight&title_color=BC8CFF&text_color=BC8CFF" />
+<p align="left">
+  🦄 <strong>Linguagens:</strong><br>
+  Dart • Java • JavaScript • HTML • CSS • SQL • JSON
 </p>
 
----
-
-## ░ system-pulse
-<p align="center">
-  <img src="https://github.com/bryanbraun/after-dark/raw/main/images/matrix.svg" width="75%" />
+<p align="left">
+  💼 <strong>Ferramentas:</strong><br>
+  Flutter • Firebase • Spring Boot • Figma • Git • VS Code • Android Studio
 </p>
 
----
+<p align="left">
+  💌 <strong>Entre em contato comigo:</strong> ⤵️
+</p>
 
-## ░ link
-```
-github.com/CarolineSouza
-```
+<p align="left">
+  <a href="#" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="#" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=BC8CFF" />
+  <a href="#" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="#" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
+  </a>
 </p>
-<p align="center" style="font-family: monospace; font-size: 12px;">
-  sync: online
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=32FF99" />
-</p>
-```
