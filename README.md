@@ -3,7 +3,6 @@
 <p align="left">
   <strong>Caroline Falcão</strong><br>
   Desenvolvedora Mobile & Full Stack<br>
-  Arquiteturas limpas • Fluxos eficientes • Entregas consistentes
 </p>
 
 <p align="left">
