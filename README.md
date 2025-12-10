@@ -1,7 +1,7 @@
 <img src="https://i.gifer.com/6o0.gif" alt="pixel computer" width="340px" align="right">
 
 <p align="left">
-  <strong>Caroline Souza</strong><br>
+  <strong>Caroline Falcão</strong><br>
   Desenvolvedora Mobile & Full Stack<br>
   Arquiteturas limpas • Fluxos eficientes • Entregas consistentes
 </p>
