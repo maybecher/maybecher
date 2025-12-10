@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/6V2.gif](https://i.gifer.com/6o0.gif" alt="pixel computer" width="340px" align="right">
+<img src="https://i.gifer.com/6o0.gif" alt="pixel computer" width="340px" align="right">
 
 <p align="left">
   <strong>Caroline Souza</strong><br>
