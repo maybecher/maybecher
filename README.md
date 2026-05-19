@@ -1,38 +1,47 @@
-<div align="center">
+<img src="https://i.gifer.com/2iiJ.gif" alt="pixel computer" width="340px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Ol%C3%A1%2C+eu+sou+SEU+NOME;Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Flutter+%2B+Dart)](https://git.io/typing-svg)
+<p align="left">
+  <strong style="font-family: monospace; font-size: 26px;">Caroline Falcão</strong><br>
+  <span style="font-family: monospace;">Desenvolvedora Mobile & Full Stack</span>
+</p>
 
-<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="260px">
+<p align="left" style="font-family: monospace;">
+  Atualmente desenvolvendo soluções mobile com <strong>Flutter + Firebase</strong><br>
 
-</div>
-
----
-
-### 🛠️ Linguagens e Tecnologias
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+</p>
 
 ---
 
-### ⚙️ Ferramentas
+### <span style="font-family: monospace;">▌ Linguagens & Tecnologias</span>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<p align="left">
+
+  <!-- cores oficiais -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&labelColor=000000" height="28">
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&labelColor=000000" height="28">
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=000000" height="28">
+
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/JSON-292929?style=flat&labelColor=000000" height="28">
+
+</p>
 
 ---
 
-### 📊 Estatísticas
+### <span style="font-family: monospace;">▌ Ferramentas</span>
 
-<div align="center">
+<p align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&labelColor=000000" height="28">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&labelColor=000000" height="28">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
+</p>
