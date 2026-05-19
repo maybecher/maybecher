@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Caroline +Falcao+Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Flutter+%2B+Dart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Caroline+Falcão;Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Flutter+%2B+Dart)](https://git.io/typing-svg)
+
 
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="260px">
 
