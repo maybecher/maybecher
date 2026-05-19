@@ -31,8 +31,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybecher&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maybecher&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maybecher&theme=github_dark)
 
 </div>
