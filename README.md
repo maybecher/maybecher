@@ -36,18 +36,9 @@ Pós-graduanda em Docência para Educação Profissional e Tecnológica pelo IFS
 
 ---
 
-## Certificações
+## Competição
 
-| Certificação | Instituição | Ano |
-|---|---|---|
-| 🏆 ICT Huawei Competition — Computação em Nuvem | Huawei | 2022 |
-| Google Cloud Foundations (80h) | Google / SENAI | 2022 |
-| Cybersecurity Essentials | Cisco | 2021 |
-| HCIA – Artificial Intelligence V3.0 | Huawei | 2022 |
-| HCIA – Cloud Service V3.0 | Huawei | 2022 |
-| HCIA – Datacom V1.0 | Huawei | 2022 |
-| LGPD e Privacidade de Dados | SENAI | 2021 |
-| Lean Office (40h) | UNINDUSTRIA | 2024 |
+🏆 **ICT Huawei Competition 2022** — Competidora na área de Computação em Nuvem
 
 ---
 
