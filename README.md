@@ -1,47 +1,66 @@
-<img src="https://i.gifer.com/2iiJ.gif" alt="pixel computer" width="340px" align="right">
+# Caroline Falcão de Souza
 
-<p align="left">
-  <strong style="font-family: monospace; font-size: 26px;">Caroline Falcão</strong><br>
-  <span style="font-family: monospace;">Desenvolvedora Mobile & Full Stack</span>
-</p>
+**Instrutora de TI · Desenvolvedora Mobile & Full Stack · São Paulo, SP**
 
-<p align="left" style="font-family: monospace;">
-  Atualmente desenvolvendo soluções mobile com <strong>Flutter + Firebase</strong><br>
+Atuo como Instrutora de Formação Profissional II no SENAI, lecionando Tecnologia da Informação, Desenvolvimento de Sistemas, Redes de Computadores e Suporte de TI. Paralelamente, desenvolvo aplicações mobile com Flutter e soluções web, unindo prática profissional e educação técnica.
 
-</p>
+Pós-graduanda em Docência para Educação Profissional e Tecnológica pelo IFSP.
 
 ---
 
-### <span style="font-family: monospace;">▌ Linguagens & Tecnologias</span>
+## Tecnologias
 
-<p align="left">
+**Mobile & Frontend**
 
-  <!-- cores oficiais -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&labelColor=000000" height="28">
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&labelColor=000000" height="28">
+**Backend & Dados**
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=000000" height="28">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/JSON-292929?style=flat&labelColor=000000" height="28">
+**Ferramentas**
 
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
-### <span style="font-family: monospace;">▌ Ferramentas</span>
+## Certificações
 
-<p align="left">
+| Certificação | Instituição | Ano |
+|---|---|---|
+| 🏆 ICT Huawei Competition — Computação em Nuvem | Huawei | 2022 |
+| Google Cloud Foundations (80h) | Google / SENAI | 2022 |
+| Cybersecurity Essentials | Cisco | 2021 |
+| HCIA – Artificial Intelligence V3.0 | Huawei | 2022 |
+| HCIA – Cloud Service V3.0 | Huawei | 2022 |
+| HCIA – Datacom V1.0 | Huawei | 2022 |
+| LGPD e Privacidade de Dados | SENAI | 2021 |
+| Lean Office (40h) | UNINDUSTRIA | 2024 |
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&labelColor=000000" height="28">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&labelColor=000000" height="28">
+---
 
-</p>
+## Formação
+
+- **Pós-graduação** — Docência para Educação Profissional e Tecnológica · IFSP · 2026–2027
+- **Tecnólogo** — Análise e Desenvolvimento de Sistemas · SENAI · 2023–2024
+- **Técnico** — Redes de Computadores · SENAI · 2021–2022
+
+---
+
+## Contato
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://maybecher.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-falc%C3%A3o-de-souza-2b2b8a190/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cfalcao339@gmail.com)
